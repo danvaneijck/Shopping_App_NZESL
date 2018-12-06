@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: eu.polestar:naosdk-4.4.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/naosdk-4.4.7.aar/9ff9e7d29f1fa949d7cdbf8752a174c5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/naosdk-4.4.7.aar/9ff9e7d29f1fa949d7cdbf8752a174c5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="map">Map</string>
+    <string name="search_title">Search</string>
+    <string name="search_no_results">No results found</string>
+    <string name="button_remove_description">Remove shopping object</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+</resources>

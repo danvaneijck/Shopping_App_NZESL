@@ -1,0 +1,3 @@
+# Referenced at /home/chp/dev/wspace/sdk-and-mobile-apps/Widget-Android/example-android/build/intermediates/manifests/full/debug/AndroidManifest.xml:29
+-keep class se.pricer.example.widget.android.MainApplication { <init>(...); }
+

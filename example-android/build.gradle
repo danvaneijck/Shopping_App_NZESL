@@ -1,0 +1,68 @@
+apply plugin: 'com.android.application'
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.2.1'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '28.0.3'
+
+    defaultConfig {
+        applicationId 'se.pricer.example.widget.android'
+        minSdkVersion 15
+        targetSdkVersion 26
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
+        }
+    }
+
+    packagingOptions {
+        exclude 'META-INF/*'
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    aaptOptions {
+        cruncherEnabled = false
+    }
+}
+
+repositories{
+    flatDir{
+        dirs 'lib'
+    }
+    google()
+}
+
+dependencies {
+    implementation(name:'widget-android-release-3.0.0', ext:'aar')
+    implementation 'com.android.support:multidex:1.0.3'
+    implementation 'eu.polestar:naosdk:4.4.7'
+
+    // Library dependencies (must be included)
+    implementation 'org.apache.commons:commons-math3:3.6.1'
+    implementation 'com.android.volley:volley:1.1.0'
+    implementation 'org.codehaus.jackson:jackson-mapper-asl:1.9.13'
+
+}

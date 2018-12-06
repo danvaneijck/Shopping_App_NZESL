@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="vertical" >
+
+    <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+        <se.pricer.widget.android.PricerMapWidgetImpl
+                android:id="@+id/pricerMapWidget"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"/>
+        <TextView
+                android:id="@+id/zoneNameView"
+                android:layout_width="wrap_content"
+                android:layout_height="40dip"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_alignParentTop="false"
+                android:textStyle="bold"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:gravity="center"
+                android:background="#80000000"
+                android:layout_alignParentBottom="true"/>
+
+    </RelativeLayout>
+
+    <include android:id="@+id/nextShoppingObjectView" layout="@layout/shopping_object"/>
+
+</LinearLayout>

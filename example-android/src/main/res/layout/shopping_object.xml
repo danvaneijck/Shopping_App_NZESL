@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:padding="5dip">
+
+    <CheckBox
+        android:id="@+id/checkboxPicked"
+        android:layout_width="32dip"
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/objectName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/objectPrice"
+        android:layout_alignTop="@+id/objectPrice"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_toEndOf="@+id/checkboxPicked"
+        android:layout_toRightOf="@+id/checkboxPicked"
+        android:gravity="bottom|start|fill_vertical"
+        android:text="@string/name"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/objectPrice"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/objectName"
+        android:layout_alignStart="@+id/objectName"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/buttonRemove"
+        android:layout_toStartOf="@+id/buttonRemove"
+        android:gravity="center|end"
+        android:maxLines="1"
+        android:text="@string/price"
+        android:textSize="24sp" />
+
+    <ImageButton
+        android:id="@+id/buttonRemove"
+        android:layout_width="42dp"
+        android:layout_height="fill_parent"
+        android:layout_alignEnd="@+id/objectName"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/objectName"
+        android:layout_margin="5dp"
+        android:src="@android:drawable/ic_delete"
+        android:contentDescription="@string/button_remove_description"/>
+
+</RelativeLayout>

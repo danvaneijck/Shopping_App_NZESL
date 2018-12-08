@@ -107,8 +107,8 @@
     <dimen name="insiteo_meetme_person_picture">40dip</dimen>
     <dimen name="insiteo_shelf_height">4dp</dimen>
     <integer name="google_play_services_version">11400000</integer>
-    <string name="apiKey">mnk5PIIG8zShulfWoaZsrX5w8lEnKMZAKpbYZM-j4cI</string>
-    <string name="apiUsername">1RJG3BI734HW1TISBZ7X6KKCM</string>
+    <string name="apiKey">9eYm7lWwfGBB0HEZZAQsB1lq5Edc1hFeEBn_1HKqDDM</string>
+    <string name="apiUsername">DEG5FBM8L910POT9VLTQBRMVO</string>
     <string name="app_name">Shopping List</string>
     <string name="button_remove_description">Remove shopping object</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
@@ -165,11 +165,11 @@
     <string name="nao_service_sync_update_pdb_on_progress">Update pdb on progress</string>
     <string name="nao_service_sync_upload_error">Upload error</string>
     <string name="nao_service_sync_upload_on_progress">Upload on progress</string>
-    <string name="polestarApiKey">Aqzuab7Zh1iTm9CaOfC7AQ</string>
+    <string name="polestarApiKey"/>
     <string name="preference_file_key">com.polestar.naosdk.PREFERENCE_FILE_KEY</string>
     <string name="price">Price</string>
     <string name="search_no_results">No results found</string>
     <string name="search_title">Search</string>
     <string name="shopping_list">Shopping List</string>
-    <string name="storeUuid">c7d74df9-f8a7-47a6-9287-befe48769766</string>
+    <string name="storeUuid">5e300f79-7bbe-11e7-86c9-a08cfde11b4a</string>
 </resources>

@@ -43,39 +43,6 @@
     <color name="is_geofencing_area_entered_color">#CC4CAF50</color>
     <color name="is_geofencing_area_left_color">#11F44336</color>
     <color name="is_geofencing_area_stayed_color">#CC2196F3</color>
-    <declare-styleable name="LoadingImageView"><attr name="imageAspectRatioAdjust">
-<enum name="none" value="0"/>
-
-<enum name="adjust_width" value="1"/>
-
-<enum name="adjust_height" value="2"/>
-
-</attr>
-
-<attr format="float" name="imageAspectRatio"/>
-
-<attr format="boolean" name="circleCrop"/>
-</declare-styleable>
-    <declare-styleable name="PricerMapWidget"/>
-    <declare-styleable name="SignInButton"><attr format="reference" name="buttonSize">
-<enum name="standard" value="0"/>
-
-<enum name="wide" value="1"/>
-
-<enum name="icon_only" value="2"/>
-
-</attr>
-<attr format="reference" name="colorScheme">
-<enum name="dark" value="0"/>
-
-<enum name="light" value="1"/>
-
-<enum name="auto" value="2"/>
-
-</attr>
-
-<attr format="reference|string" name="scopeUris"/>
-</declare-styleable>
     <dimen name="generic_rto_action_anchor_x">8dp</dimen>
     <dimen name="generic_rto_action_anchor_y">8dp</dimen>
     <dimen name="generic_rto_indicator_anchor_x">4dp</dimen>
@@ -172,4 +139,37 @@
     <string name="search_title">Search</string>
     <string name="shopping_list">Shopping List</string>
     <string name="storeUuid">5e300f79-7bbe-11e7-86c9-a08cfde11b4a</string>
+    <declare-styleable name="LoadingImageView"><attr name="imageAspectRatioAdjust">
+<enum name="none" value="0"/>
+
+<enum name="adjust_width" value="1"/>
+
+<enum name="adjust_height" value="2"/>
+
+</attr>
+
+<attr format="float" name="imageAspectRatio"/>
+
+<attr format="boolean" name="circleCrop"/>
+</declare-styleable>
+    <declare-styleable name="PricerMapWidget"/>
+    <declare-styleable name="SignInButton"><attr format="reference" name="buttonSize">
+<enum name="standard" value="0"/>
+
+<enum name="wide" value="1"/>
+
+<enum name="icon_only" value="2"/>
+
+</attr>
+<attr format="reference" name="colorScheme">
+<enum name="dark" value="0"/>
+
+<enum name="light" value="1"/>
+
+<enum name="auto" value="2"/>
+
+</attr>
+
+<attr format="reference|string" name="scopeUris"/>
+</declare-styleable>
 </resources>

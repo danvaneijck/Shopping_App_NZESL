@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :widget-android-release-3.0.0:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/widget-android-release-3.0.0.aar/1d7a5f89991a38293085db1d19b8eff3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/widget-android-release-3.0.0.aar/1d7a5f89991a38293085db1d19b8eff3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

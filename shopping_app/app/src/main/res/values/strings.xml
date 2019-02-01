@@ -1,0 +1,17 @@
+<resources>
+    <string name="title_home">Home</string>
+    <string name="app_name">Shopping List</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="nav_map">Store Map</string>
+    <string name="nav_shopping_list">Shopping List</string>
+
+    <string name="shopping_list">Shopping List</string>
+    <string name="map">Map</string>
+    <string name="search_title">Search</string>
+    <string name="search_no_results">No results found</string>
+    <string name="button_remove_description">Remove shopping object</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+</resources>

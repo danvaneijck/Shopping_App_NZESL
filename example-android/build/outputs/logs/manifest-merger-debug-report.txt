@@ -1,253 +1,253 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:1-59:12
-MERGED from [com.android.support:multidex:1.0.3] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\8bf8e2c15310d1685e704f7298a3a830\AndroidManifest.xml:17:1-22:12
-MERGED from [:widget-android-release-3.0.0:] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\widget-android-release-3.0.0.aar\5c1b88c1242728391593f4964a29e545\AndroidManifest.xml:2:1-11:12
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:2:1-33:12
-MERGED from [com.android.volley:volley:1.1.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\4a0e1b0c913839db5b6640d160a9f5ab\AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\b66a1a09a367e6a1a4f0d836f0bf3eca\AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\e95d8abd41519167ae4e5b5b82c192ff\AndroidManifest.xml:16:1-21:12
-MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\2f6ef4bf5e779f9b845dd4bcb40db431\AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\c05e9d9f4aa176b27c03fe872ea9d736\AndroidManifest.xml:16:1-23:12
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\15bbd43c35111f2355997f02363bd7f3\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\b8a07760b6a81dc95fdf69ac62cd04cb\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\62b894f4f88e5498c332908bcf3bc907\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\95534f09c56cbed95209f36c16f0159d\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\79bbf0e0fd7322fa058846b9569c3599\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\66152c015808741e8a1a79ebb02f4ee1\AndroidManifest.xml:17:1-27:12
-INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:1-59:12
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:1-59:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\cd94174707ca60b146374410eb1d52ed\AndroidManifest.xml:17:1-22:12
+MERGED from [:widget-android-release-3.0.0:] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\widget-android-release-3.0.0.aar\1d7a5f89991a38293085db1d19b8eff3\AndroidManifest.xml:2:1-11:12
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\00d8eb7c5f5945390788d47834c5435a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\7e5ad78985a9f5a82515b76ba33c2b7b\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\205740232e2ff0041c32fb0da07858f5\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\1b21b622bca1c5921070ff58ae2f6e62\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\6aea4ccda1b5aa698bfec99c019f2725\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\e2ff167d26d8b7230b5701c0929f623c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1aba08b97ee604b94e95a7a6aa8855ad\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\7db54db8e71eb54616158e800b76f37b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\48daf301638ca51fa26977b4e70828fd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\53e082533bcb47a54cfc91c642c854b9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\5a6c6b507f1bc70e495ddb2bd5593fca\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:1-59:12
 	package
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:3:5-47
-		INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:5:5-32
-		INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:7:5-67
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:15:5-67
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:15:5-67
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:7:5-67
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:15:5-67
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:15:5-67
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:7:22-64
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:8:5-76
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:21:5-76
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:21:5-76
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:8:5-76
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:21:5-76
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:21:5-76
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:8:22-73
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:8:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:9:5-76
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:22:5-76
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:22:5-76
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:9:5-76
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:22:5-76
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:22:5-76
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:9:22-73
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:9:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:10:5-79
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:16:5-79
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:16:5-79
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:10:5-79
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:16:5-79
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:10:22-76
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:10:22-76
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:11:5-75
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:11:5-75
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:11:22-72
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:11:22-72
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:12:5-79
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:31:5-79
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:31:5-79
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:12:5-79
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:31:5-79
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:31:5-79
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:12:22-76
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:12:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:13:5-81
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:30:5-81
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:30:5-81
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:13:5-81
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:30:5-81
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:30:5-81
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:13:22-78
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:13:22-78
 uses-permission#android.permission.ACCESS_COARSE_UPDATE
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:14:5-79
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:14:5-79
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:14:22-76
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:14:22-76
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:15:5-68
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:18:5-68
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:18:5-68
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:15:5-68
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:18:5-68
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:18:5-68
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:15:22-65
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:15:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:16:5-74
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:19:5-74
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:19:5-74
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:16:5-74
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:19:5-74
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:19:5-74
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:16:22-71
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:16:22-71
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:17:5-81
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:17:5-81
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:17:22-78
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:17:22-78
 uses-permission#android.permission.WAKE_LOCK
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:18:5-68
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:24:5-68
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:24:5-68
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:18:5-68
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:24:5-68
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:18:22-65
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:18:22-65
 uses-permission#android.permission.ACCESS_NETWORK
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:19:5-73
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:19:5-73
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:19:22-70
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:19:22-70
 uses-feature#android.hardware.bluetooth_le
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:21:5-23:35
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:21:5-23:35
 	android:required
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:23:9-32
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:23:9-32
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:22:9-53
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:22:9-53
 application
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:25:5-58:19
-MERGED from [com.android.volley:volley:1.1.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\4a0e1b0c913839db5b6640d160a9f5ab\AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.1.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\4a0e1b0c913839db5b6640d160a9f5ab\AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\b66a1a09a367e6a1a4f0d836f0bf3eca\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\b66a1a09a367e6a1a4f0d836f0bf3eca\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\e95d8abd41519167ae4e5b5b82c192ff\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\e95d8abd41519167ae4e5b5b82c192ff\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\2f6ef4bf5e779f9b845dd4bcb40db431\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\2f6ef4bf5e779f9b845dd4bcb40db431\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\c05e9d9f4aa176b27c03fe872ea9d736\AndroidManifest.xml:19:5-21:19
-MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\c05e9d9f4aa176b27c03fe872ea9d736\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\15bbd43c35111f2355997f02363bd7f3\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\15bbd43c35111f2355997f02363bd7f3\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\b8a07760b6a81dc95fdf69ac62cd04cb\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\b8a07760b6a81dc95fdf69ac62cd04cb\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\62b894f4f88e5498c332908bcf3bc907\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\62b894f4f88e5498c332908bcf3bc907\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\95534f09c56cbed95209f36c16f0159d\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\95534f09c56cbed95209f36c16f0159d\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\79bbf0e0fd7322fa058846b9569c3599\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\79bbf0e0fd7322fa058846b9569c3599\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\66152c015808741e8a1a79ebb02f4ee1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\66152c015808741e8a1a79ebb02f4ee1\AndroidManifest.xml:25:5-20
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:25:5-58:19
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\00d8eb7c5f5945390788d47834c5435a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\00d8eb7c5f5945390788d47834c5435a\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\7e5ad78985a9f5a82515b76ba33c2b7b\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\7e5ad78985a9f5a82515b76ba33c2b7b\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\205740232e2ff0041c32fb0da07858f5\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\205740232e2ff0041c32fb0da07858f5\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\1b21b622bca1c5921070ff58ae2f6e62\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\1b21b622bca1c5921070ff58ae2f6e62\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\6aea4ccda1b5aa698bfec99c019f2725\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\6aea4ccda1b5aa698bfec99c019f2725\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\e2ff167d26d8b7230b5701c0929f623c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\e2ff167d26d8b7230b5701c0929f623c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1aba08b97ee604b94e95a7a6aa8855ad\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1aba08b97ee604b94e95a7a6aa8855ad\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\7db54db8e71eb54616158e800b76f37b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\7db54db8e71eb54616158e800b76f37b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\48daf301638ca51fa26977b4e70828fd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\48daf301638ca51fa26977b4e70828fd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\53e082533bcb47a54cfc91c642c854b9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\53e082533bcb47a54cfc91c642c854b9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\5a6c6b507f1bc70e495ddb2bd5593fca\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\5a6c6b507f1bc70e495ddb2bd5593fca\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:29:9-41
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:29:9-41
 	android:hardwareAccelerated
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:27:9-44
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:27:9-44
 	android:icon
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:28:9-38
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:28:9-38
 	android:theme
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:30:9-50
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:30:9-50
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:26:9-40
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:26:9-40
 provider#se.pricer.example.widget.android.SearchProvider
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:32:9-37:43
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:32:9-37:43
 	android:enabled
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:35:13-35
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:35:13-35
 	android:authorities
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:34:13-82
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:34:13-82
 	android:multiprocess
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:37:13-40
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:37:13-40
 	android:exported
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:36:13-37
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:36:13-37
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:33:13-43
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:33:13-43
 service#se.pricer.example.widget.android.polestar.NaoService
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:39:9-56
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:39:9-56
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:39:18-53
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:39:18-53
 activity#se.pricer.example.widget.android.MainActivity
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:41:9-57:20
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:41:9-57:20
 	android:screenOrientation
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:45:13-49
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:45:13-49
 	android:label
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:43:13-45
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:43:13-45
 	android:launchMode
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:44:13-43
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:44:13-43
 	android:windowSoftInputMode
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:46:13-52
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:46:13-52
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:42:13-41
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:42:13-41
 meta-data#android.app.searchable
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:48:13-50:54
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:48:13-50:54
 	android:resource
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:50:17-51
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:50:17-51
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:49:17-54
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:49:17-54
 intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.SEARCH+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:52:13-56:29
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:52:13-56:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:53:17-69
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:53:17-69
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:53:25-66
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:53:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:54:17-77
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:54:17-77
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:54:27-74
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:54:27-74
 action#android.intent.action.SEARCH
-ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:55:17-71
+ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:55:17-71
 	android:name
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:55:25-68
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml:55:25-68
 uses-sdk
-INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
-INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
-MERGED from [com.android.support:multidex:1.0.3] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\8bf8e2c15310d1685e704f7298a3a830\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.3] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\8bf8e2c15310d1685e704f7298a3a830\AndroidManifest.xml:20:5-43
-MERGED from [:widget-android-release-3.0.0:] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\widget-android-release-3.0.0.aar\5c1b88c1242728391593f4964a29e545\AndroidManifest.xml:7:5-9:41
-MERGED from [:widget-android-release-3.0.0:] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\widget-android-release-3.0.0.aar\5c1b88c1242728391593f4964a29e545\AndroidManifest.xml:7:5-9:41
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:7:5-9:41
-MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\bc999a75ce380c7b8eaaa77ecb97503b\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.volley:volley:1.1.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\4a0e1b0c913839db5b6640d160a9f5ab\AndroidManifest.xml:7:5-43
-MERGED from [com.android.volley:volley:1.1.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\4a0e1b0c913839db5b6640d160a9f5ab\AndroidManifest.xml:7:5-43
-MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\b66a1a09a367e6a1a4f0d836f0bf3eca\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\b66a1a09a367e6a1a4f0d836f0bf3eca\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\e95d8abd41519167ae4e5b5b82c192ff\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\e95d8abd41519167ae4e5b5b82c192ff\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\2f6ef4bf5e779f9b845dd4bcb40db431\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\2f6ef4bf5e779f9b845dd4bcb40db431\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\c05e9d9f4aa176b27c03fe872ea9d736\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\c05e9d9f4aa176b27c03fe872ea9d736\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\15bbd43c35111f2355997f02363bd7f3\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\15bbd43c35111f2355997f02363bd7f3\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\b8a07760b6a81dc95fdf69ac62cd04cb\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\b8a07760b6a81dc95fdf69ac62cd04cb\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\62b894f4f88e5498c332908bcf3bc907\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\62b894f4f88e5498c332908bcf3bc907\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\95534f09c56cbed95209f36c16f0159d\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\95534f09c56cbed95209f36c16f0159d\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\79bbf0e0fd7322fa058846b9569c3599\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\79bbf0e0fd7322fa058846b9569c3599\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\66152c015808741e8a1a79ebb02f4ee1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\66152c015808741e8a1a79ebb02f4ee1\AndroidManifest.xml:21:5-23:58
-INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
-INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\cd94174707ca60b146374410eb1d52ed\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\cd94174707ca60b146374410eb1d52ed\AndroidManifest.xml:20:5-43
+MERGED from [:widget-android-release-3.0.0:] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\widget-android-release-3.0.0.aar\1d7a5f89991a38293085db1d19b8eff3\AndroidManifest.xml:7:5-9:41
+MERGED from [:widget-android-release-3.0.0:] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\widget-android-release-3.0.0.aar\1d7a5f89991a38293085db1d19b8eff3\AndroidManifest.xml:7:5-9:41
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:7:5-9:41
+MERGED from [eu.polestar:naosdk:4.4.7] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\naosdk-4.4.7.aar\4abcfe883745cd635e5dd49a19af9961\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\00d8eb7c5f5945390788d47834c5435a\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\00d8eb7c5f5945390788d47834c5435a\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\7e5ad78985a9f5a82515b76ba33c2b7b\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.0.aar\7e5ad78985a9f5a82515b76ba33c2b7b\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\205740232e2ff0041c32fb0da07858f5\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\205740232e2ff0041c32fb0da07858f5\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\1b21b622bca1c5921070ff58ae2f6e62\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\1b21b622bca1c5921070ff58ae2f6e62\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\6aea4ccda1b5aa698bfec99c019f2725\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\6aea4ccda1b5aa698bfec99c019f2725\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\e2ff167d26d8b7230b5701c0929f623c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\e2ff167d26d8b7230b5701c0929f623c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1aba08b97ee604b94e95a7a6aa8855ad\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1aba08b97ee604b94e95a7a6aa8855ad\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\7db54db8e71eb54616158e800b76f37b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\7db54db8e71eb54616158e800b76f37b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\48daf301638ca51fa26977b4e70828fd\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\48daf301638ca51fa26977b4e70828fd\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\53e082533bcb47a54cfc91c642c854b9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\53e082533bcb47a54cfc91c642c854b9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\5a6c6b507f1bc70e495ddb2bd5593fca\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\5a6c6b507f1bc70e495ddb2bd5593fca\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\15bbd43c35111f2355997f02363bd7f3\AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\e2ff167d26d8b7230b5701c0929f623c\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
-		ADDED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\src\main\AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\e95d8abd41519167ae4e5b5b82c192ff\AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\205740232e2ff0041c32fb0da07858f5\AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\e95d8abd41519167ae4e5b5b82c192ff\AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\205740232e2ff0041c32fb0da07858f5\AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\e95d8abd41519167ae4e5b5b82c192ff\AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\205740232e2ff0041c32fb0da07858f5\AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\e95d8abd41519167ae4e5b5b82c192ff\AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\205740232e2ff0041c32fb0da07858f5\AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\c05e9d9f4aa176b27c03fe872ea9d736\AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\6aea4ccda1b5aa698bfec99c019f2725\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\c05e9d9f4aa176b27c03fe872ea9d736\AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\6aea4ccda1b5aa698bfec99c019f2725\AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\hackerman\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\c05e9d9f4aa176b27c03fe872ea9d736\AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\danve\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\6aea4ccda1b5aa698bfec99c019f2725\AndroidManifest.xml:20:20-65

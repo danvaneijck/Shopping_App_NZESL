@@ -1,2 +1,2 @@
-# Referenced at C:\Users\hackerman\Desktop\Shopping_App_NZESL\example-android\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:29
--keep class se.pricer.example.widget.android.MainApplication { <init>(...); }
+# Referenced at C:\Users\danve\Desktop\Shopping_App_NZESL\example-android\build\intermediates\merged_manifests\debug\AndroidManifest.xml:29
+-keep class se.pricer.example.widget.android.MainApplication { <init>(); }

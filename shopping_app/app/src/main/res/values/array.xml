@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="sections">
+        <item >Fresh Choice Te Ngae</item>
+        <item >FC Christchurch Central City</item>
+        <item >Albany</item>
+    </string-array>
+</resources>

@@ -15,10 +15,7 @@ public class MainApplication extends MultiDexApplication {
   @Override
   public void onCreate() {
     // Start the PricerApi, edit settings.xml and enter your cloud api settings
-    PricerApi.getInstance().startApi(
-        getResources().getString(R.string.storeUuid),
-        getResources().getString(R.string.apiUsername),
-        getResources().getString(R.string.apiKey));
+
 
     super.onCreate();
   }

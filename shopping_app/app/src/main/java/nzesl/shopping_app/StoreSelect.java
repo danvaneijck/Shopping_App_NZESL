@@ -41,7 +41,7 @@ public class StoreSelect extends Activity implements AdapterView.OnItemClickList
             return new String[]{"6313278c-5098-11e7-8303-6451064d5d93","DQ2TXSY4X1R3L325U1KEH9K9Y","M3BtBuDDfZbXlCYDldmDAeCGQT0GYXCvbE-ynQE_hQM"};
         }
         if(s.equalsIgnoreCase("FC Christchurch Central City")){
-            return new String[]{"5e300f79-7bbe-11e7-86c9-a08cfde11b4a","DEG5FBM8L910POT9VLTQBRMVO","9eYm7lWwfGBB0HEZZAQsB1lq5Edc1hFeEBn_1HKqDDM"};
+            return new String[]{"5e300f79-7bbe-11e7-86c9-a08cfde11b4a","7058NO2UFKFG56RJZRE603J0V","wSRPDpROq4olIHc37IN6LMjORLhMCqwH9CPbleRhB_A"};
         }
         if(s.equalsIgnoreCase("Albany")){
             return new String[]{"6313278c-5098-11e7-8303-6451064d5d93","DQ2TXSY4X1R3L325U1KEH9K9Y","M3BtBuDDfZbXlCYDldmDAeCGQT0GYXCvbE-ynQE_hQM"};

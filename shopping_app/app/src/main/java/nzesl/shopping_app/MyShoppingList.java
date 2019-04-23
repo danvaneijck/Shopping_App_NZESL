@@ -1,16 +1,18 @@
 package nzesl.shopping_app;
 
+import android.app.Activity;
 import android.app.SearchManager;
 import android.content.Context;
+import android.content.Intent;
 import android.database.Cursor;
 import android.os.Bundle;
+import android.support.v7.app.AlertDialog;
 import android.util.Log;
-import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.CursorAdapter;
 import android.widget.ListView;
 import android.widget.SearchView;
@@ -29,6 +31,11 @@ public class MyShoppingList extends BaseActivity {
 
     private ShoppingListAdapter shoppingListAdapter;
     private static MyShoppingList instance;
+
+    static final int REQUEST_CODE = 0;
+
+
+    private Button scanBarcode;
 
     public static MyShoppingList getInstance() {
         return instance;
@@ -56,6 +63,72 @@ public class MyShoppingList extends BaseActivity {
         ListView listView = findViewById(R.id.shopping_list_view);
         listView.setAdapter(shoppingListAdapter);
 
+        scanBarcode = findViewById(R.id.barcode_button);
+
+        scanBarcode.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent();
+                intent.setClass(getApplicationContext(), ScanBarcode.class);
+
+                startActivityForResult(intent, REQUEST_CODE);
+            }
+        });
+
+    }
+
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if (requestCode == REQUEST_CODE) {
+            if (resultCode == RESULT_OK) {
+                String s=data.getStringExtra("result");
+                try {
+                    ObjectMapper mapper = new ObjectMapper();
+
+                    PricerSearchResponse.SearchResult result = mapper.readValue(s , PricerSearchResponse.SearchResult.class);
+
+                    ShoppingObject shoppingObject = null;
+
+                    if (result instanceof PricerSearchResponse.SearchResultArticleGroup) {
+                        PricerSearchResponse.SearchResultArticleGroup
+                                resultArticleGroup =
+                                (PricerSearchResponse.SearchResultArticleGroup) result;
+
+                        // Create the shopping object
+                        shoppingObject = new ShoppingObject(resultArticleGroup.getGroupType() + resultArticleGroup.getGroupName(),
+                                resultArticleGroup.getGroupName(),
+                                null /* article groups don't have a price */,
+                                resultArticleGroup.getGroupPosition(),
+                                resultArticleGroup.getGroupShape());
+
+                    } else if (result instanceof PricerSearchResponse.SearchResultItem) {
+                        PricerSearchResponse.SearchResultItem resultItem = (PricerSearchResponse.SearchResultItem) result;
+
+                        PricerPosition firstPosition = resultItem.getItemPositions().isEmpty() ?
+                                null : resultItem.getItemPositions().get(0);
+
+                        // Create the shopping object
+                        shoppingObject = new ShoppingObject(resultItem.getItemId(),
+                                resultItem.getItemName(),
+                                resultItem.getItemProperties().get("PRICE"),
+                                firstPosition,
+                                null /* items don't have a shape */);
+                    }
+
+                    // Add the shopping object to the shopping list
+                    addShoppingObject(shoppingObject);
+
+                } catch (IOException e) {
+                    Log.w(this.getClass().getName(), e);
+                }
+            } else if(resultCode == Activity.RESULT_CANCELED) {
+                new AlertDialog.Builder(this)
+                        .setTitle("No Result")
+                        .setMessage("There was no item found")
+                        .setNegativeButton(android.R.string.no, null)
+                        .setIcon(android.R.drawable.ic_dialog_alert)
+                        .show();
+            }
+        }
     }
 
     public void addShoppingObject(ShoppingObject shoppingObject) {
